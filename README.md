@@ -109,4 +109,4 @@ self.resultLabel.text = "\(rV)"
 
 好了，都通过了，整个世界都和平了。
 
-
+[WWDC Video For UI Testing](https://developer.apple.com/videos/play/wwdc2015/406/)
