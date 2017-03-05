@@ -19,7 +19,7 @@ class PercentageCalculatorTests: XCTestCase {
         // Put setup code here. This method is called before the invocation of each test method in the class.
         
         
-        let storyboard = UIStoryboard(name: "Main", bundle: NSBundle.mainBundle())
+        let storyboard = UIStoryboard(name: "Main", bundle: Bundle.main)
         vc = storyboard.instantiateInitialViewController() as! ViewController
         
     }
